@@ -4,5 +4,5 @@
 demo 影片連結: https://youtu.be/DIOmPT7g-0Q
 <figure>
   <img width="280" height="559" alt="Image" src="https://github.com/user-attachments/assets/1e15e2f3-78f1-44ae-b4d2-21414387e805" />
-  <figcaption>圖 1. 系統架構圖</figcaption>
+  <figcaption>圖1.系統架構圖</figcaption>
 </figure>
