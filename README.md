@@ -3,4 +3,4 @@
 
 demo 影片連結: https://youtu.be/DIOmPT7g-0Q
 
-https://github.com/LIN-YUA/-Project-of-Microprocessor-Laboratory/issues/1#issue-3418931705
+<img width="280" height="559" alt="Image" src="https://github.com/user-attachments/assets/1e15e2f3-78f1-44ae-b4d2-21414387e805" />
