@@ -6,3 +6,7 @@ demo 影片連結: https://youtu.be/DIOmPT7g-0Q
   <img width="280" height="559" alt="Image" src="https://github.com/user-attachments/assets/1e15e2f3-78f1-44ae-b4d2-21414387e805" />
   <figcaption>圖1.系統架構圖</figcaption>
 </figure>
+<figure>
+  <img width="630" height="360" alt="Image" src="https://github.com/user-attachments/assets/02883f6b-88ec-4d83-ae1b-d27d2572f3d1" />
+  <figcaption>圖2.評估指標</figcaption>
+</figure>
